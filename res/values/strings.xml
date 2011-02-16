@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">Hello World, TranslatorActivity!</string>
     <string name="app_name">Translator</string>
+	<string name="translation">The translation will appear here</string>
+	<string name="prompt">Choose a language</string>
 </resources>
