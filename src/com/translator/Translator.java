@@ -40,6 +40,7 @@ public class Translator {
 				String string = ((JSONObject)jsonObject.get("responseData")).getString("translatedText");
 				
 				Log.v("Json string = ", ""+string);
+				return string;
 			}
 			finally{
 				
