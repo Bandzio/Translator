@@ -98,6 +98,10 @@ public class TranslatorActivity extends Activity implements OnClickListener{
 		doTranslate();
 		
 	}
+	
+	public void doStuff(){
+		//TODO: only for test;
+	}
 
 	private void doTranslate() {
 		Log.v(tag, "doTranslate call");
